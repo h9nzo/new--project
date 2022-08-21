@@ -1,3 +1,11 @@
+/* footer */
+
+.app_download {
+    background-image: url(/img-Vacation/footer-get-app-image.png);
+    width: 1366px;
+    height: 543px;
+}
+
 footer {
     background-color: #141414;
 }

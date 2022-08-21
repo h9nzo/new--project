@@ -1,0 +1,55 @@
+.text-vacation {
+
+    width: 399px;
+    height: 37px;
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+
+    color: black;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.item-1 {
+    position: absolute;
+    width: 164px;
+    height: 31px;
+    left: 24px;
+    top: 146px;
+    border-radius: 8px;
+}
+
+.item-2 {
+    position: absolute;
+    width: 310px;
+    height: 200px;
+    left: 460px;
+    top: 0px;
+    border-radius: 8px;
+}
+
+.item-3 {
+    position: absolute;
+    width: 310px;
+    height: 200px;
+    left: 794px;
+    top: 0px;
+    border-radius: 8px;
+}
+
+.item-4 {
+    position: absolute;
+    width: 310px;
+    height: 200px;
+    left: 1128px;
+    top: 0px;
+    border-radius: 8px;
+
+}
+
