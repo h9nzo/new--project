@@ -118,18 +118,6 @@ footer {
 }
 
 .download__number {
-    display: flex;
-    flex-direction: row;
-    padding: 8px 16px;
-    gap: 8px;
-    
-    width: 462px;
-    height: 58px;
-    
-    background: rgba(255, 255, 255, 0.4);
-    backdrop-filter: blur(32px);
-    
-    border-radius: 16px;
 
     position: absolute;
     top: 400px;
