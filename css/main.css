@@ -1,1 +1,264 @@
+/* footer */
+footer {
+    background-color: #141414;
+    position: absolute;
+    width: 1349px;
+    height: 288px;
+    left: 0px;
+    bottom: 0px;
+    top: 81%;
+}
 
+.app-download__space {
+    background-image: url(/img/footer-bg.png);
+    width: auto;
+    height: 543px;
+}
+
+.iPhone-13 {
+    position: absolute;
+    top: 75px;
+    left: 131.62px;
+}
+
+.download__title {
+    width: 722.84px;
+    height: 55px;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 55px;
+    
+    color: #FFFFFF;
+
+    position: absolute;
+    top: 45px;
+    left: 474px;
+
+}
+
+.download__paragraph {
+    width: 771.93px;
+    height: 84px;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #FFFFFF;
+    
+    position: absolute;
+    left: 474px;
+    top: 154px;
+}
+
+.mobile-email {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 300px;
+    left: 474px;
+}
+
+.mobile {
+    padding: 8px 16px;
+    gap: 8px;
+    
+    width: 91px;
+    height: 39px;
+    
+    background: rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(32px);
+    
+    border-radius: 16px; 
+    color: #FFFFFF;
+
+    width: 59px;
+    height: 23px;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+.email {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #FFFFFF;
+
+    margin-left: 30px;
+    margin-top: 7px;
+}
+
+.download__text {
+    width: 462px;
+    height: 16px;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;    
+    
+    color: #FFFFFF;
+
+    position: absolute;
+    top: 360px;
+    left: 474px;
+}
+
+.download__number {
+    display: flex;
+    flex-direction: row;
+    padding: 8px 16px;
+    gap: 8px;
+    
+    width: 462px;
+    height: 58px;
+    
+    background: rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(32px);
+    
+    border-radius: 16px;
+
+    position: absolute;
+    top: 400px;
+    left: 474px;
+}
+
+.or {
+    position: absolute;
+    width: 15px;
+    height: 145px;
+    left: 979px;
+    top: 270px; 
+}
+
+.download__on {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 1037px;
+    top: 270px;
+}
+
+.google-play {
+    width: 202.82px;
+    height: 60.85px;
+}
+
+.footer__logo {
+    position: absolute;
+    left: 8.78%;
+    right: 85.07%;
+    top: 14.58%;
+    bottom: 72.57%;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    
+    color: #FFFFFF;
+}
+
+.first-column {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 15px;
+    
+    width: 142px;
+    height: 113px;
+
+    position: absolute;
+    top: 42px;
+    left: 300px;
+}
+
+.a {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+    color: #808080;
+    text-decoration: none;
+}
+
+.second-column {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 15px;
+    
+    width: 142px;
+    height: 113px;
+
+    position: absolute;
+    top: 42px;
+    left: 570px;
+}
+
+.third-column {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 15px;
+    
+    width: 142px;
+    height: 113px;
+
+    position: absolute;
+    top: 42px;
+    left: 770px;
+}
+
+.fourth-column {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 15px;
+    
+    width: 142px;
+    height: 113px;
+
+    position: absolute;
+    top: 42px;
+    left: 970px;
+}
+
+.KOD {
+    position: absolute;
+    top: 180px;
+    left: 300px;
+}
+
+.social {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 20px;
+    
+    position: absolute;
+    left: 79.8%;
+    right: 8.78%;
+    top: 64.24%;
+    bottom: 27.43%;
+}
